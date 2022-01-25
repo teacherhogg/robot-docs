@@ -1,0 +1,10 @@
+{
+  "title": "Robot Dashboard Documentation",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "teacherhogg/robot-docs",
+  "twitter": "@teacherhogg"
+}
