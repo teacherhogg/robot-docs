@@ -9,16 +9,21 @@ features:
   - Feature 3
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+<img src="/robotcoders.svg" class="w-64 h-64"/>
+
+<alert type="info">
+<div>
+  <p>Robot Coders is an easy way to allow many people drive a robot (or multiple robots) at the same time regardless of location.</p>
+
+  <p>Developed during the pandemic to facilitate learning of coding and robotics with students at home, Robot Coders works great if participants are in the same room as the teacher and the robots being driven, or working from home.</p>
+
+  <p>The platform is excellent as a basis for teaching: Coding, Robotics, Hardware, Electronics. It is also a great connection to exploring how Automation and Robotics is impacting the Future of Work, and space exploration such as the Mar's Missions.</p>
+</div>
+</alert>
+
 
 [Module]() for [NuxtJS](https://nuxtjs.org).
 
-<alert type="success">
-
-Your documentation has been created successfully!
-
-</alert>
 
 ## Features
 

@@ -5,6 +5,8 @@ position: 2
 category: Overview
 ---
 
+<img src="/robotcoders.svg" class="w-64 h-64"/>
+
 Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.
 
 ## Installation
