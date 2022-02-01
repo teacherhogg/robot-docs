@@ -1,9 +1,12 @@
 ---
 title: What is Robot Coders?
 description: ''
-position: 2
+position: 1
 category: Overview
 ---
+
+<display-image src="/robotics/Robot Coders Architecture.png"></display-image>
+
 
 <img src="/robotcoders.svg" class="w-64 h-64"/>
 

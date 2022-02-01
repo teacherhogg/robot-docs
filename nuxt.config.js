@@ -6,5 +6,6 @@ export default theme({
   },
   content: {
     liveEdit: false
-  }
+  },
+  target: 'static'
 })
