@@ -1,6 +1,6 @@
 ---
 title: settings.yml (Settings File)
-description: ''
+description: ""
 position: 13
 category: Robot Dashboard
 badge: Robot Dashboard
@@ -18,23 +18,22 @@ Generally, you can leave the settings.yml file with the default values. The only
 
 ```yaml
 ---
-  group: testgroup
-  groups:
-    - testgroup
-  challengeName: testchallenge
-  challengeNames:
-    - testchallenge
-  challengeMode: sync
-  challengeModes:
-    - sync
-    - team
-    - reject
-  skipchallengename: true
-  testmode: false
-  multiteams: false
-  robot-server-url: https://hoggrobotchallenge.herokuapp.com
+group: testgroup
+groups:
+  - testgroup
+challengeName: testchallenge
+challengeNames:
+  - testchallenge
+challengeMode: sync
+challengeModes:
+  - sync
+  - team
+  - reject
+skipchallengename: true
+testmode: false
+multiteams: false
+robot-server-url: https://hoggrobotchallenge.herokuapp.com
 ```
-
 
 ### group property
 
@@ -42,7 +41,7 @@ The last used group in a Robot Challenge.
 
 ### groups property
 
-Available list of groups for Robot Challenges. These are added through the Robot Dashboard. 
+Available list of groups for Robot Challenges. These are added through the Robot Dashboard.
 
 ### challengeModes property
 
@@ -64,7 +63,9 @@ This is the default (or last used) challenge mode.
 
 ### testmode property
 
-TBD
+<alert type="danger">
+NOTE that by default, testmode is set to true. This is convenient for quickly getting started, but NOT GOOD in general as you will have students attempt to hijack the driving of robots when others are competing! 
+</alert>
 
 ### multiteams property
 
