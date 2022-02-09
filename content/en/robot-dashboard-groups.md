@@ -15,3 +15,7 @@ If you go the **Teams** tab, you will see the ability to create new Teams (type 
 <alert type="danger">
 By default, the settings.yml file is setup with a very permissive mode whereby ANYONE can be added to the group simply by registering for a challenge. This makes it EASY to get started with a group, but is also dangerous as once students figure out how everything works they can (and will) start trying to drive robots when it is other's turns to drive! See the property testmode in settings.yml for more information.
 </alert>
+
+To get started, create at least one team for each robot you will be running in your challenges. Once you have created a team, you need to associate a robot with that team. To do so, you can hover over each of the small colored dots which will indicate which dot corresponds to which robot. Click the dot for the robot you want associated with this team. You should then see a large dot show up corresponding to that robot.
+
+At this point, you could add members, and then assign members to each team. However, if you are in teammode, there is a faster way to get members added. See Running in Teammode.

@@ -30,7 +30,7 @@ challengeModes:
   - team
   - reject
 skipchallengename: true
-testmode: false
+testmode: true
 multiteams: false
 robot-server-url: https://hoggrobotchallenge.herokuapp.com
 ```
@@ -41,7 +41,7 @@ The last used group in a Robot Challenge.
 
 ### groups property
 
-Available list of groups for Robot Challenges. These are added through the Robot Dashboard.
+Available list of groups for Robot Challenges. These are added through the Robot Dashboard. You may want to have a different group for each class or club you are running.
 
 ### challengeModes property
 
@@ -52,6 +52,10 @@ These modes are explained under [Challenge Modes](/challenge-modes).
 ### challengeName property
 
 This is the default (or last used) challenge name.
+
+### skipchallengename property
+
+**Leave as is. This in an advanced feature.**
 
 ### challengeNames property
 
@@ -69,4 +73,8 @@ NOTE that by default, testmode is set to true. This is convenient for quickly ge
 
 ### multiteams property
 
-TBD
+**Leave as is. This in an advanced feature.**
+
+### robot-server-url property
+
+You can initially use the default value. However, you will need to change this if you setup your own version of the [Robot Server](/robot-server).

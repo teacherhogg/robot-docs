@@ -14,9 +14,7 @@ Pre-built binaries are also available for easy install on Windows (tested on Win
 The Robot Dashboard's project name is "robot-controller".
 </alert>
 
-[Robot Dashboard for Windows]()
-
-Download the application ([See releases page on github](https://github.com/teacherhogg/robot-controller/releases)) and run the installer. Once installed, the Robot Dashboard will automatically run (actually, this will happen more than once during install where the Dashboard will appear and then disappear until eventually staying up.).
+Download the application ([See releases page on github](https://github.com/teacherhogg/robot-controller/releases)) and run the installer. Once installed, the Robot Dashboard will automatically run (actually, this will happen more than once during install where the Dashboard will appear and then disappear until eventually staying up.). It may take a few moments before anything obvious is happening once you start the installer.
 
 <alert type="info">
 <p>On Windows 10, the default location for the application to be installed is at something like:</p>
@@ -30,4 +28,4 @@ Download the application ([See releases page on github](https://github.com/teach
 On Windows 10, watch for (may be hidden by the dashboard itself) a "Windows Security Alert" asking for access through the Windows Defender Firewall. Select "Allow Access" as the dashboard does need to communicate to the Robot Server (as well as the locally installed Robots).
 </alert>
 
-You will then need to configure the application's **Setting Folder** location and setup two required configuration files (see [Robot Dashboard Setup](/robot-dashboard-setup)).
+You will then need to configure the application's **Setting Folder** location and setup two required configuration files (see [Robot Dashboard Setup](/robot-dashboard-setup)). Sample versions of these two files can be found on the [on the releases page](https://github.com/teacherhogg/robot-controller/releases).

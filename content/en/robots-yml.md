@@ -1,6 +1,6 @@
 ---
 title: robots.yml (Settings File)
-description: ''
+description: ""
 position: 14
 category: Robot Dashboard
 badge: Robot Dashboard
@@ -72,10 +72,14 @@ The metadata properties include a robot name (any name and spaces allowed) as we
 
 ### port property
 
-The port is the communication port used to communicate with the robot on the computer running the [Robot Dashboard](/robot-dashboard). 
+The port is the communication port used to communicate with the robot on the computer running the [Robot Dashboard](/robot-dashboard).
 
 See [Robot Communication](/robot-communication) for more information.
 
 ### motors properties
 
 The motors defines the pin connections to control the left and right motors on the robot. The pins used will depend on the type of [Motor Controller](/motor-controllers) used.
+
+## Johnny-Five Robotics & IoT Platform
+
+Note that the Robot Dashboard uses the [Johnny-Five Robotics Platform](http://johnny-five.io/) to control the robots. This means the motor commands being used reflect the setup parameters defined for Johnny Five, and that any motor controllers and microcontrollers that Johnny-Five supports are also supported by Robot Coders.

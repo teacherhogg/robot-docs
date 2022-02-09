@@ -1,7 +1,7 @@
 ---
 title: Challenge Modes
-description: 
-position: 26
+description:
+position: 28
 category: Robot Dashboard
 badge: Robot Dashboard
 ---
@@ -10,9 +10,9 @@ Robot Dashboard allows for a variety of ways to challenge participants.
 
 Three **Challenge Modes** are available:
 
-* `sync` 
-* `team`
-* `reject`
+- `sync`
+- `team`
+- `reject`
 
 ## **sync** Mode
 
@@ -23,6 +23,7 @@ Commands run synchronously which means a second command will run once the FIRST 
 Be careful, as ANY command sent my any team member WILL eventually get run! Make sure to coordinate with your team members before sending more commands!
 
 This is a great simulation of what it might be like to drive a rover on Mars, since it is dangerous for all participants to simply send commands without seeing how the robot is responding. If team aggressively and non-cooperatively try to drive the robot, they most likely will see there robot get hopelessly stuck as the queue of commands continues to be executed.
+
 ## **team** Mode
 
 In this mission condition, there IS also a command queue. HOWEVER, if you send a command (or command string), then any subsequent commands from YOU will be rejected until someone ELSE on your team sends a command.
