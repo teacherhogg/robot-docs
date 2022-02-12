@@ -1,6 +1,6 @@
 ---
-title: Getting Sample App
-description: 
+title: Sample Controller App
+description:
 position: 45
 category: Robot Control Apps
 badge: Robot Control Apps
