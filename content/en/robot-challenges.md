@@ -1,35 +1,10 @@
 ---
-title: Getting Started
-description: 
-position: 40
+title: Typical Robot Challenge
+description:
+position: 44
 category: Robot Control Apps
 badge: Robot Control Apps
 ---
-
-<h4 class="bg-orange-700 text-white rounded p-4">Building (Modifying) your Robot Controller App</h4>
-
-<p>Once you have completed the above steps, you SHOULD be able to control the robot during mission challenges! NOW you can modify the app to better control the app and give you greater control.</p>
-
-<p>Using the <span class="font-bold">Sample Robot App</span> you will need to create a good robot controller. You can modify the screen with id <span class="font-bold">controlrobot</span> to create your controller.
-
-<p>Note that the <span class="font-bold">runRobotCommand</span> runs the instruction(s) you set in the variable <span class="font-bold">robotCommand</span>. The next section below describes all the possible instructions. Note that you can provide multiple instructions at once by separating the instructions with commas.</p>
-
-<p>Example</p>
-
-<table><tbody>
-    <tr>
-        <td>
-            <code>
-                robotCommand = "FWD-255-1000,TURNR-150-2000";
-                runRobotCommand();    
-            </code>
-        </td>
-        <td>
-            <p>This example is calling the runRobotCommand with two instructions. The first instruction FWD-255-1000 says to go forward at full speed (255) for 1 seconds (1000 ms).</p>
-            <p>The second instruction (separated by comma) TURNR-150-2000 says to turn right at medium speed (150) for 2 seconds (2000 ms).</p>
-        </td>
-    </tr>
-</tbody></table>
 
 <h4 class="bg-orange-700 text-white rounded p-4">Typical Challenge Sequence</h4>
 

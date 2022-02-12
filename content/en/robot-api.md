@@ -1,13 +1,13 @@
 ---
 title: Robot API
-description: 
-position: 43
+description:
+position: 42
 category: Robot Control Apps
 badge: Robot Control Apps
 multiselectOptions:
-    - VuePress
-    - Gridsome
-    - Nuxt
+  - VuePress
+  - Gridsome
+  - Nuxt
 ---
 
 <alert type="info">
@@ -16,7 +16,7 @@ API is a programming term that means 'Application Programming Interface'. It is 
 
 <h2 class="bg-orange-700 text-white rounded p-4">Robot API</h2>
 
-The Robot API allows **Robot Controller Apps** to be run from ANY coding environment that supports a third-party web call (http). Programming an App using Java, Javascript, Python, C++, and more are all possible. However, the simplest way to get started is to use [Code.org](/code-org) to develop your Robot Controller App using the [Code.org App Lab](https://code.org/educate/applab) *(Which uses Javascript and also offers a block programming environment.)*
+The Robot API allows **Robot Controller Apps** to be run from ANY coding environment that supports a third-party web call (http). Programming an App using Java, Javascript, Python, C++, and more are all possible. However, the simplest way to get started is to use [Code.org](/code-org) to develop your Robot Controller App using the [Code.org App Lab](https://code.org/educate/applab) _(Which uses Javascript and also offers a block programming environment.)_
 
 A [Sample App](/robot-controller-sample-app) can be imported into a free Code.org account to quickly get started.
 

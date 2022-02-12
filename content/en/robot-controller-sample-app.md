@@ -1,7 +1,7 @@
 ---
-title: Sample Controller App
+title: Controller Sample App
 description:
-position: 45
+position: 46
 category: Robot Control Apps
 badge: Robot Control Apps
 ---
@@ -36,6 +36,9 @@ badge: Robot Control Apps
         <h3 class="mb-3 font-bold text-gray-800 text-xl">Step 2: Goto Sample Robot Controller App</h3>
         <p class="text-sm leading-snug tracking-wide text-gray-900 text-opacity-100">
             Once you are signed in to code.org, <a href="https://studio.code.org/projects/applab/xXKNufCiCEA7kgv-zuJmH_L3iFTKDHniD_-4sTU5Blc" target="newWindow">click here for the Sample Robot Controller App</a>. You will then click on <span class="font-bold">View Code</span> (NOT 'Make my Own').
+        </p>
+        <p class="text-sm italic leading-snug tracking-wide text-gray-900 text-opacity-100">
+            <a href="https://studio.code.org/projects/applab/SOl1JwpRoae07HJdgOIt53Q2n9RsV9f5JVyQa1x_K8c" target="newWindow">Use this link instead if you want the Quickstart App.</a> 
         </p>
     </div>
     </div>
