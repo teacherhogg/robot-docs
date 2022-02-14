@@ -18,4 +18,8 @@ Robot Coders consists of:
 
 ## Robot Coders Architecture
 
+<display-image src="/robotics/RobotCoders.png"></display-image>
+
+## Robot Coders Architecture Details
+
 <display-image src="/robotics/Robot Coders Architecture.png"></display-image>

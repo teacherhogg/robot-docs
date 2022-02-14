@@ -18,9 +18,9 @@ features:
       bg-blue-300: true
   - id: 2
     description:
-      - Open Source means that all of the hardware and software being used is freely available and all technical aspects are published and known.
+      - Open Source means that all of the software being used is freely available and all technical aspects of the hardware and software are published and known.
       - While there are many commercially made products for teaching students about Coding, Robotics, and Electronics, the potential for learning relevant skills is hugely reduced while the cost is higher.
-      - Generally, even trouble shooting an open-source products is in itself a valuable learning opportunity. In contrast, trying to fix problems in a commercial system is simply spending time trying to get the product working so the actual learning can happen.
+      - Generally, even troubleshooting an open-source products is in itself a valuable learning opportunity. In contrast, trying to fix problems in a commercial system is simply spending time trying to get the product working so the actual learning can happen.
       - While commercial products might be somewhat easier to get up and running, Robot Coders has been made as straightforward as possible. Again, the learning you and your students undertake to get setup is valuable in and of itself and will likely be useful in other contexts.
     subtitle: Freely Available and Widely Applicable
     title: Open Source
@@ -31,7 +31,7 @@ features:
     description:
       - Investing in a Robotics Platform or even Coding Environment can be expensive. For example, a single copy of the popular "Lego Mindstorms EV3" set can cost from $500 to $1000. Recently, Lego has announced this Robotics system is being discontinued.
       - In contrast, Robot Coders can be used with a huge variety of open-source platforms, both software and hardware. Examples are provided for very low cost robots built using Arduino UNO with Robot Controller Apps developed by students on the free Code.org website in their App Lab. However, there is many other hardware and software options that would work as well.
-    label: Label 1
+      - See "Robot Cost Example" for a breakdown of a sample $50 to $100 robot compatible with Robot Coders.
     subtitle: Inexpensive and Future Proof
     title: Affordable
     icon: features/affordable.svg
@@ -105,7 +105,7 @@ features:
     description:
       - TBD
     label:
-    subtitle: Unique challenges that test student's group problem-solving in many ways.
+    subtitle: Self-driving robots or real-time driven robots, or a combination of the two!
     title: Autonomous and Real-time Driving Modes
     icon: features/wheel.svg
     classes:
@@ -124,9 +124,20 @@ features:
       bg-blue-400: true
   - id: 11
     description:
-      - TBD
+      - Students can simply be provided with pre-built robots to use if focussing on programming, challenges, automation and the future of work, etc. However, it is also a great platform for teaching electronics.
+      - Relevant topics that could be covered include
+      - DC vs AC
+      - Circuits
+      - Breadboards
+      - Resistors
+      - Integrated Circuits (ICs)
+      - Battery Types
+      - Energy Storage
+      - Motors
+      - Motor Controllers
+      - Microcontrollers
     label:
-    subtitle: Open-source.... TBD
+    subtitle: Open source hardware allows for very flexible and transferable learning.
     title: Electronics
     icon: features/hardware.svg
     classes:

@@ -6,7 +6,7 @@ category: Robot Dashboard
 badge: Robot Dashboard
 ---
 
-The Robot Dashboard is an application running on a computer that is in communication with the robots.
+The **Robot Dashboard** is an application running on a computer that is in communication with the robots.
 
 Features of the Robot Dashboard include:
 

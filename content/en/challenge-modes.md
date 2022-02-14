@@ -22,7 +22,7 @@ Commands run synchronously which means a second command will run once the FIRST 
 
 Be careful, as ANY command sent my any team member WILL eventually get run! Make sure to coordinate with your team members before sending more commands!
 
-This is a great simulation of what it might be like to drive a rover on Mars, since it is dangerous for all participants to simply send commands without seeing how the robot is responding. If team aggressively and non-cooperatively try to drive the robot, they most likely will see there robot get hopelessly stuck as the queue of commands continues to be executed.
+This is a great simulation of what it might be like to drive a rover on Mars, since it is dangerous for all participants to simply send commands without seeing how the robot is responding. If team members aggressively and non-cooperatively try to drive the robot, they most likely will see their robot get hopelessly stuck as the queue of commands continues to be executed.
 
 ## **team** Mode
 

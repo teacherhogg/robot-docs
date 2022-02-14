@@ -19,7 +19,7 @@ features:
 
 ## Introduction
 
-<p>Robot Coders is an easy way to allow many people drive a robot (or multiple robots) at the same time regardless of location.</p>
+<p>Robot Coders is an easy way to allow many people to drive a robot (or multiple robots) at the same time regardless of location.</p>
 
 <p>Developed during the pandemic to facilitate learning of coding and robotics with students at home, Robot Coders works great regardless if participants are in the same room as the teacher and the robots being driven, or if participants are working from home.</p>
 
