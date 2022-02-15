@@ -37,5 +37,5 @@ In this mission condition, any command received WHILE a current command is being
 The number of rejected commands is recorded, so it is possible to penalize a team based on how many rejected commands were received (indicating how well the team coordinated).
 
 <alert type="info">
-    TBD WIN CONDITIONS!!!
+    The above Challenge Modes can be supplemented with different Win Conditions. For example, the first team to complete a mission. Another is the team with the FEWEST commands (most efficient and use of autonomous driving). Finally, the team with the highest level of cooperation (using the number of rejected commands in team or reject mode).
 </alert>

@@ -13,3 +13,9 @@ If you want to modify the code for this app, you will need to create a free acco
 <alert type="warning">
 This sample app is designed for quickly getting up and running with a group of participants so they can compete in Robot Challenges. It is recommended to not use this app if you are using Robot Coders as a part of a longer term course on coding and robotics. Note that this app is optimized for use with the Robot Dashboard running in testmode.
 </alert>
+
+## Links to Robot Coder Quickstart Sample App
+
+[https://tiny.one/robotcoder](https://tiny.one/robotcoder)
+
+<img src="/robotcoderqrsampleapp.png" width="200" height="200" />

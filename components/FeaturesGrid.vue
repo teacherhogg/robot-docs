@@ -24,8 +24,8 @@
             v-for="desc in feature.description"
             :key="desc"
             class="text-gray-600 text-xs"
+            v-html="desc"
           >
-            {{ desc }}
           </p>
         </div>
       </div>
